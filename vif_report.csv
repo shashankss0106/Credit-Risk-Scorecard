@@ -1,0 +1,18 @@
+Feature_Bucket,VIF
+fico_660-699,inf
+fico_700-739,inf
+fico_740+,inf
+util_31-60%,62.62
+util_61-80%,49.59
+util_1-30%,38.73
+util_80%+,34.03
+lti_25-35%,1.42
+lti_15-25%,1.4
+lti_35%+,1.4
+dti_25-35%,1.3
+dti_15-25%,1.29
+term_60 months,1.13
+home_RENT,1.12
+home_OWN,1.1
+dti_35%+,1.06
+home_OTHER,1.0
